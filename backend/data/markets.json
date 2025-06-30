@@ -1,0 +1,137 @@
+[
+  {
+    "market_id": "MH-PUN-001",
+    "market_name": "Pune APMC",
+    "lat": 18.5204,
+    "lng": 73.8567,
+    "market_fees": 25,
+    "rating": 4.3,
+    "demand": {
+      "carrot": 12.5,
+      "potato": -6.2,
+      "cabbage": 4.8,
+      "onion": 0.0,
+      "tomato": -3.5
+    }
+  },
+  {
+    "market_id": "MH-NAS-001",
+    "market_name": "Lasalgaon",
+    "lat": 20.04,
+    "lng": 74.25,
+    "market_fees": 20,
+    "rating": 4.5,
+    "demand": {
+      "carrot": -4.0,
+      "potato": -2.3,
+      "cabbage": 1.2,
+      "onion": 18.0,
+      "tomato": 6.7
+    }
+  },
+  {
+    "market_id": "MH-NAS-002",
+    "market_name": "Nashik",
+    "lat": 20.011,
+    "lng": 73.79,
+    "market_fees": 18,
+    "rating": 4.1,
+    "demand": {
+      "carrot": 5.5,
+      "potato": 0.0,
+      "cabbage": 3.3,
+      "onion": -2.5,
+      "tomato": 1.1
+    }
+  },
+  {
+    "market_id": "MH-MUM-001",
+    "market_name": "Mumbai Market",
+    "lat": 19.076,
+    "lng": 72.8777,
+    "market_fees": 30,
+    "rating": 4.4,
+    "demand": {
+      "carrot": 15.0,
+      "potato": 10.2,
+      "cabbage": 6.1,
+      "onion": -1.0,
+      "tomato": 12.3
+    }
+  },
+  {
+    "market_id": "MH-NAG-001",
+    "market_name": "Nagpur",
+    "lat": 21.1458,
+    "lng": 79.0882,
+    "market_fees": 22,
+    "rating": 4.0,
+    "demand": {
+      "carrot": 2.5,
+      "potato": 3.1,
+      "cabbage": -1.5,
+      "onion": -3.3,
+      "tomato": 4.4
+    }
+  },
+  {
+    "market_id": "MH-KOP-001",
+    "market_name": "Kolhapur",
+    "lat": 16.705,
+    "lng": 74.2433,
+    "market_fees": 24,
+    "rating": 4.2,
+    "demand": {
+      "carrot": 1.5,
+      "potato": -4.0,
+      "cabbage": 2.2,
+      "onion": 3.3,
+      "tomato": 0.0
+    }
+  },
+  {
+    "market_id": "MH-PC-001",
+    "market_name": "Pimpri-Chinchwad",
+    "lat": 18.6298,
+    "lng": 73.7997,
+    "market_fees": 26,
+    "rating": 4.1,
+    "demand": {
+      "carrot": 7.8,
+      "potato": 1.0,
+      "cabbage": -0.5,
+      "onion": 2.2,
+      "tomato": 5.0
+    }
+  },
+  {
+    "market_id": "MH-SBG-001",
+    "market_name": "Sambhajinagar",
+    "lat": 19.8762,
+    "lng": 75.3433,
+    "market_fees": 21,
+    "rating": 4.0,
+    "demand": {
+      "carrot": -2.5,
+      "potato": -5.3,
+      "cabbage": 0.9,
+      "onion": 1.0,
+      "tomato": -4.2
+    }
+  },
+  {
+    "market_id": "MH-SLP-001",
+    "market_name": "Solapur",
+    "lat": 17.6599,
+    "lng": 75.9064,
+    "market_fees": 23,
+    "rating": 3.9,
+    "demand": {
+      "carrot": 3.0,
+      "potato": 2.5,
+      "cabbage": 1.1,
+      "onion": -0.5,
+      "tomato": -1.8
+    }
+  }
+]

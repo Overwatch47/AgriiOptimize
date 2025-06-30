@@ -1,0 +1,2164 @@
+{
+  "predictions": [
+    {
+      "crop": "Tomatoes",
+      "market": "Pune APMC",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 13.75,
+          "lower_bound": 11.59,
+          "upper_bound": 15.94
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 12.77,
+          "lower_bound": 10.68,
+          "upper_bound": 14.83
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 11.89,
+          "lower_bound": 9.78,
+          "upper_bound": 13.93
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 12.93,
+          "lower_bound": 10.88,
+          "upper_bound": 15.1
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 13.6,
+          "lower_bound": 11.48,
+          "upper_bound": 15.87
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 13.55,
+          "lower_bound": 11.4,
+          "upper_bound": 15.69
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 12.68,
+          "lower_bound": 10.55,
+          "upper_bound": 14.87
+        }
+      ]
+    },
+    {
+      "crop": "Tomatoes",
+      "market": "Lasalgaon",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 37.83,
+          "lower_bound": 33.86,
+          "upper_bound": 41.75
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 37.32,
+          "lower_bound": 33.14,
+          "upper_bound": 41.32
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 35.71,
+          "lower_bound": 31.56,
+          "upper_bound": 40.09
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 35.84,
+          "lower_bound": 31.86,
+          "upper_bound": 39.87
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 37.05,
+          "lower_bound": 32.83,
+          "upper_bound": 40.94
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 37.91,
+          "lower_bound": 33.7,
+          "upper_bound": 41.98
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 36.63,
+          "lower_bound": 32.64,
+          "upper_bound": 40.67
+        }
+      ]
+    },
+    {
+      "crop": "Tomatoes",
+      "market": "Nashik",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 47.04,
+          "lower_bound": 43.5,
+          "upper_bound": 50.84
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 46.36,
+          "lower_bound": 42.82,
+          "upper_bound": 50.14
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 44.68,
+          "lower_bound": 41.33,
+          "upper_bound": 48.48
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 44.76,
+          "lower_bound": 41.18,
+          "upper_bound": 48.03
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 44.46,
+          "lower_bound": 40.97,
+          "upper_bound": 47.94
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 45.93,
+          "lower_bound": 42.28,
+          "upper_bound": 49.31
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 46.56,
+          "lower_bound": 43.19,
+          "upper_bound": 50.05
+        }
+      ]
+    },
+    {
+      "crop": "Tomatoes",
+      "market": "Mumbai Market",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 47.68,
+          "lower_bound": 46.0,
+          "upper_bound": 49.46
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 49.01,
+          "lower_bound": 47.15,
+          "upper_bound": 50.97
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 49.83,
+          "lower_bound": 48.09,
+          "upper_bound": 51.59
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 49.98,
+          "lower_bound": 48.22,
+          "upper_bound": 51.88
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 51.47,
+          "lower_bound": 49.55,
+          "upper_bound": 53.38
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 52.15,
+          "lower_bound": 50.27,
+          "upper_bound": 53.87
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 51.58,
+          "lower_bound": 49.82,
+          "upper_bound": 53.45
+        }
+      ]
+    },
+    {
+      "crop": "Tomatoes",
+      "market": "Nagpur",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 38.61,
+          "lower_bound": 35.99,
+          "upper_bound": 40.92
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 37.86,
+          "lower_bound": 35.27,
+          "upper_bound": 40.21
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 38.39,
+          "lower_bound": 36.17,
+          "upper_bound": 40.56
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 40.69,
+          "lower_bound": 38.22,
+          "upper_bound": 43.04
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 39.01,
+          "lower_bound": 36.5,
+          "upper_bound": 41.41
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 39.65,
+          "lower_bound": 37.21,
+          "upper_bound": 41.99
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 38.93,
+          "lower_bound": 36.44,
+          "upper_bound": 41.44
+        }
+      ]
+    },
+    {
+      "crop": "Tomatoes",
+      "market": "Kolhapur",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 64.59,
+          "lower_bound": 62.05,
+          "upper_bound": 67.0
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 67.03,
+          "lower_bound": 64.6,
+          "upper_bound": 69.54
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 68.55,
+          "lower_bound": 66.18,
+          "upper_bound": 71.02
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 68.75,
+          "lower_bound": 66.33,
+          "upper_bound": 71.18
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 69.57,
+          "lower_bound": 67.12,
+          "upper_bound": 72.17
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 70.36,
+          "lower_bound": 67.95,
+          "upper_bound": 73.05
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 70.9,
+          "lower_bound": 68.22,
+          "upper_bound": 73.64
+        }
+      ]
+    },
+    {
+      "crop": "Tomatoes",
+      "market": "Pimpri-Chinchwad",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 71.12,
+          "lower_bound": 69.34,
+          "upper_bound": 72.87
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 70.97,
+          "lower_bound": 69.2,
+          "upper_bound": 72.87
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 70.46,
+          "lower_bound": 68.56,
+          "upper_bound": 72.33
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 70.63,
+          "lower_bound": 68.84,
+          "upper_bound": 72.46
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 72.75,
+          "lower_bound": 70.94,
+          "upper_bound": 74.64
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 74.1,
+          "lower_bound": 72.24,
+          "upper_bound": 75.91
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 73.79,
+          "lower_bound": 72.07,
+          "upper_bound": 75.56
+        }
+      ]
+    },
+    {
+      "crop": "Tomatoes",
+      "market": "Sambhajinagar",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 42.31,
+          "lower_bound": 38.02,
+          "upper_bound": 46.16
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 41.79,
+          "lower_bound": 37.44,
+          "upper_bound": 46.13
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 44.71,
+          "lower_bound": 40.79,
+          "upper_bound": 48.99
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 44.66,
+          "lower_bound": 40.53,
+          "upper_bound": 48.94
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 44.87,
+          "lower_bound": 41.01,
+          "upper_bound": 48.9
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 45.97,
+          "lower_bound": 41.9,
+          "upper_bound": 50.07
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 45.25,
+          "lower_bound": 41.46,
+          "upper_bound": 48.96
+        }
+      ]
+    },
+    {
+      "crop": "Tomatoes",
+      "market": "Solapur",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 27.33,
+          "lower_bound": 25.34,
+          "upper_bound": 29.07
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 27.26,
+          "lower_bound": 25.46,
+          "upper_bound": 29.19
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 27.26,
+          "lower_bound": 25.4,
+          "upper_bound": 29.15
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 26.32,
+          "lower_bound": 24.48,
+          "upper_bound": 28.2
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 28.19,
+          "lower_bound": 26.32,
+          "upper_bound": 30.0
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 28.71,
+          "lower_bound": 26.82,
+          "upper_bound": 30.52
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 27.59,
+          "lower_bound": 25.78,
+          "upper_bound": 29.53
+        }
+      ]
+    },
+    {
+      "crop": "Carrots",
+      "market": "Pune APMC",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 44.31,
+          "lower_bound": 41.92,
+          "upper_bound": 46.71
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 43.13,
+          "lower_bound": 40.76,
+          "upper_bound": 45.52
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 44.27,
+          "lower_bound": 41.56,
+          "upper_bound": 46.62
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 43.04,
+          "lower_bound": 40.68,
+          "upper_bound": 45.52
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 42.92,
+          "lower_bound": 40.45,
+          "upper_bound": 45.33
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 42.82,
+          "lower_bound": 40.23,
+          "upper_bound": 45.25
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 42.5,
+          "lower_bound": 39.94,
+          "upper_bound": 44.88
+        }
+      ]
+    },
+    {
+      "crop": "Carrots",
+      "market": "Lasalgaon",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 40.92,
+          "lower_bound": 39.73,
+          "upper_bound": 42.13
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 41.91,
+          "lower_bound": 40.71,
+          "upper_bound": 43.11
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 40.98,
+          "lower_bound": 39.87,
+          "upper_bound": 42.18
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 41.44,
+          "lower_bound": 40.25,
+          "upper_bound": 42.59
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 42.22,
+          "lower_bound": 41.07,
+          "upper_bound": 43.38
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 42.3,
+          "lower_bound": 41.05,
+          "upper_bound": 43.5
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 42.17,
+          "lower_bound": 40.91,
+          "upper_bound": 43.36
+        }
+      ]
+    },
+    {
+      "crop": "Carrots",
+      "market": "Nashik",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 32.35,
+          "lower_bound": 30.47,
+          "upper_bound": 34.12
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 31.76,
+          "lower_bound": 29.96,
+          "upper_bound": 33.63
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 33.37,
+          "lower_bound": 31.47,
+          "upper_bound": 35.32
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 34.87,
+          "lower_bound": 32.9,
+          "upper_bound": 36.78
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 34.01,
+          "lower_bound": 32.18,
+          "upper_bound": 35.92
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 33.57,
+          "lower_bound": 31.7,
+          "upper_bound": 35.53
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 33.48,
+          "lower_bound": 31.57,
+          "upper_bound": 35.45
+        }
+      ]
+    },
+    {
+      "crop": "Carrots",
+      "market": "Mumbai Market",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 45.27,
+          "lower_bound": 42.5,
+          "upper_bound": 47.85
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 47.12,
+          "lower_bound": 44.93,
+          "upper_bound": 49.75
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 47.02,
+          "lower_bound": 44.41,
+          "upper_bound": 49.6
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 45.96,
+          "lower_bound": 43.26,
+          "upper_bound": 48.46
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 45.86,
+          "lower_bound": 43.41,
+          "upper_bound": 48.48
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 46.55,
+          "lower_bound": 44.02,
+          "upper_bound": 49.17
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 46.63,
+          "lower_bound": 43.84,
+          "upper_bound": 49.22
+        }
+      ]
+    },
+    {
+      "crop": "Carrots",
+      "market": "Nagpur",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 21.52,
+          "lower_bound": 20.3,
+          "upper_bound": 22.91
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 22.21,
+          "lower_bound": 20.83,
+          "upper_bound": 23.54
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 21.65,
+          "lower_bound": 20.41,
+          "upper_bound": 23.04
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 19.74,
+          "lower_bound": 18.46,
+          "upper_bound": 21.12
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 18.82,
+          "lower_bound": 17.5,
+          "upper_bound": 20.19
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 19.53,
+          "lower_bound": 18.09,
+          "upper_bound": 21.07
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 18.97,
+          "lower_bound": 17.36,
+          "upper_bound": 20.65
+        }
+      ]
+    },
+    {
+      "crop": "Carrots",
+      "market": "Kolhapur",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 30.15,
+          "lower_bound": 26.62,
+          "upper_bound": 33.35
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 30.5,
+          "lower_bound": 27.14,
+          "upper_bound": 33.99
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 31.62,
+          "lower_bound": 28.56,
+          "upper_bound": 35.0
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 32.07,
+          "lower_bound": 28.66,
+          "upper_bound": 35.41
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 32.42,
+          "lower_bound": 28.99,
+          "upper_bound": 35.97
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 31.66,
+          "lower_bound": 28.46,
+          "upper_bound": 34.94
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 30.66,
+          "lower_bound": 27.26,
+          "upper_bound": 34.01
+        }
+      ]
+    },
+    {
+      "crop": "Carrots",
+      "market": "Pimpri-Chinchwad",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 28.83,
+          "lower_bound": 26.88,
+          "upper_bound": 30.98
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 28.79,
+          "lower_bound": 26.85,
+          "upper_bound": 30.83
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 29.92,
+          "lower_bound": 27.82,
+          "upper_bound": 31.86
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 30.39,
+          "lower_bound": 28.32,
+          "upper_bound": 32.47
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 31.28,
+          "lower_bound": 29.29,
+          "upper_bound": 33.31
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 29.8,
+          "lower_bound": 27.69,
+          "upper_bound": 31.82
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 28.93,
+          "lower_bound": 26.87,
+          "upper_bound": 30.97
+        }
+      ]
+    },
+    {
+      "crop": "Carrots",
+      "market": "Sambhajinagar",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 16.64,
+          "lower_bound": 14.92,
+          "upper_bound": 18.24
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 17.05,
+          "lower_bound": 15.38,
+          "upper_bound": 18.75
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 16.09,
+          "lower_bound": 14.39,
+          "upper_bound": 17.8
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 16.19,
+          "lower_bound": 14.53,
+          "upper_bound": 17.87
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 15.99,
+          "lower_bound": 14.31,
+          "upper_bound": 17.61
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 14.6,
+          "lower_bound": 12.93,
+          "upper_bound": 16.25
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 15.73,
+          "lower_bound": 14.16,
+          "upper_bound": 17.46
+        }
+      ]
+    },
+    {
+      "crop": "Carrots",
+      "market": "Solapur",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 27.34,
+          "lower_bound": 25.58,
+          "upper_bound": 29.07
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 26.85,
+          "lower_bound": 25.08,
+          "upper_bound": 28.61
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 26.37,
+          "lower_bound": 24.62,
+          "upper_bound": 28.19
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 27.13,
+          "lower_bound": 25.43,
+          "upper_bound": 28.96
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 29.38,
+          "lower_bound": 27.44,
+          "upper_bound": 31.16
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 30.59,
+          "lower_bound": 28.81,
+          "upper_bound": 32.44
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 30.76,
+          "lower_bound": 28.99,
+          "upper_bound": 32.52
+        }
+      ]
+    },
+    {
+      "crop": "Potatoes",
+      "market": "Pune APMC",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 31.39,
+          "lower_bound": 28.78,
+          "upper_bound": 33.69
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 30.9,
+          "lower_bound": 28.49,
+          "upper_bound": 33.33
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 32.53,
+          "lower_bound": 30.06,
+          "upper_bound": 35.08
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 31.56,
+          "lower_bound": 29.25,
+          "upper_bound": 34.11
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 31.75,
+          "lower_bound": 29.16,
+          "upper_bound": 34.38
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 31.55,
+          "lower_bound": 29.03,
+          "upper_bound": 34.03
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 31.17,
+          "lower_bound": 28.78,
+          "upper_bound": 33.57
+        }
+      ]
+    },
+    {
+      "crop": "Potatoes",
+      "market": "Lasalgaon",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 35.69,
+          "lower_bound": 33.92,
+          "upper_bound": 37.52
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 36.27,
+          "lower_bound": 34.57,
+          "upper_bound": 37.9
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 37.22,
+          "lower_bound": 35.59,
+          "upper_bound": 39.04
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 37.68,
+          "lower_bound": 35.98,
+          "upper_bound": 39.44
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 38.49,
+          "lower_bound": 36.71,
+          "upper_bound": 40.29
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 40.07,
+          "lower_bound": 38.23,
+          "upper_bound": 41.86
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 39.71,
+          "lower_bound": 37.94,
+          "upper_bound": 41.39
+        }
+      ]
+    },
+    {
+      "crop": "Potatoes",
+      "market": "Nashik",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 37.02,
+          "lower_bound": 36.1,
+          "upper_bound": 37.88
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 37.02,
+          "lower_bound": 36.09,
+          "upper_bound": 37.92
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 37.81,
+          "lower_bound": 36.81,
+          "upper_bound": 38.71
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 38.61,
+          "lower_bound": 37.52,
+          "upper_bound": 39.56
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 38.43,
+          "lower_bound": 37.41,
+          "upper_bound": 39.45
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 40.57,
+          "lower_bound": 39.56,
+          "upper_bound": 41.7
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 41.8,
+          "lower_bound": 40.57,
+          "upper_bound": 42.96
+        }
+      ]
+    },
+    {
+      "crop": "Potatoes",
+      "market": "Mumbai Market",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 33.29,
+          "lower_bound": 30.19,
+          "upper_bound": 36.54
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 34.67,
+          "lower_bound": 31.52,
+          "upper_bound": 38.01
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 34.83,
+          "lower_bound": 31.73,
+          "upper_bound": 37.83
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 33.28,
+          "lower_bound": 30.01,
+          "upper_bound": 36.57
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 31.93,
+          "lower_bound": 28.75,
+          "upper_bound": 35.18
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 32.18,
+          "lower_bound": 29.22,
+          "upper_bound": 35.37
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 34.36,
+          "lower_bound": 31.16,
+          "upper_bound": 37.56
+        }
+      ]
+    },
+    {
+      "crop": "Potatoes",
+      "market": "Nagpur",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 42.56,
+          "lower_bound": 41.24,
+          "upper_bound": 43.76
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 43.53,
+          "lower_bound": 42.28,
+          "upper_bound": 44.67
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 44.65,
+          "lower_bound": 43.42,
+          "upper_bound": 45.85
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 43.92,
+          "lower_bound": 42.72,
+          "upper_bound": 45.14
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 43.91,
+          "lower_bound": 42.63,
+          "upper_bound": 45.17
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 42.8,
+          "lower_bound": 41.57,
+          "upper_bound": 44.08
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 44.18,
+          "lower_bound": 42.98,
+          "upper_bound": 45.45
+        }
+      ]
+    },
+    {
+      "crop": "Potatoes",
+      "market": "Kolhapur",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 24.94,
+          "lower_bound": 22.31,
+          "upper_bound": 27.72
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 24.98,
+          "lower_bound": 22.28,
+          "upper_bound": 27.75
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 23.9,
+          "lower_bound": 21.1,
+          "upper_bound": 26.8
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 24.29,
+          "lower_bound": 21.49,
+          "upper_bound": 27.06
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 24.17,
+          "lower_bound": 21.39,
+          "upper_bound": 26.93
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 24.94,
+          "lower_bound": 22.07,
+          "upper_bound": 27.69
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 23.32,
+          "lower_bound": 20.44,
+          "upper_bound": 26.06
+        }
+      ]
+    },
+    {
+      "crop": "Potatoes",
+      "market": "Pimpri-Chinchwad",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 42.13,
+          "lower_bound": 40.05,
+          "upper_bound": 44.03
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 43.53,
+          "lower_bound": 41.44,
+          "upper_bound": 45.54
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 41.01,
+          "lower_bound": 38.98,
+          "upper_bound": 43.11
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 40.19,
+          "lower_bound": 38.03,
+          "upper_bound": 42.07
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 41.16,
+          "lower_bound": 39.12,
+          "upper_bound": 43.04
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 40.12,
+          "lower_bound": 37.91,
+          "upper_bound": 42.16
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 39.39,
+          "lower_bound": 37.2,
+          "upper_bound": 41.31
+        }
+      ]
+    },
+    {
+      "crop": "Potatoes",
+      "market": "Sambhajinagar",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 11.55,
+          "lower_bound": 8.13,
+          "upper_bound": 15.13
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 12.2,
+          "lower_bound": 9.05,
+          "upper_bound": 15.72
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 12.71,
+          "lower_bound": 9.11,
+          "upper_bound": 16.2
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 12.56,
+          "lower_bound": 9.05,
+          "upper_bound": 16.11
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 13.67,
+          "lower_bound": 10.44,
+          "upper_bound": 17.19
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 13.63,
+          "lower_bound": 10.41,
+          "upper_bound": 17.23
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 13.11,
+          "lower_bound": 9.14,
+          "upper_bound": 16.36
+        }
+      ]
+    },
+    {
+      "crop": "Potatoes",
+      "market": "Solapur",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 36.06,
+          "lower_bound": 34.47,
+          "upper_bound": 37.72
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 33.66,
+          "lower_bound": 32.06,
+          "upper_bound": 35.21
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 32.61,
+          "lower_bound": 31.05,
+          "upper_bound": 34.06
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 32.66,
+          "lower_bound": 31.05,
+          "upper_bound": 34.28
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 32.11,
+          "lower_bound": 30.48,
+          "upper_bound": 33.87
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 31.65,
+          "lower_bound": 29.99,
+          "upper_bound": 33.27
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 32.71,
+          "lower_bound": 30.99,
+          "upper_bound": 34.3
+        }
+      ]
+    },
+    {
+      "crop": "Onions",
+      "market": "Pune APMC",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 28.71,
+          "lower_bound": 27.16,
+          "upper_bound": 30.21
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 29.28,
+          "lower_bound": 27.63,
+          "upper_bound": 30.78
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 29.56,
+          "lower_bound": 27.99,
+          "upper_bound": 31.2
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 29.01,
+          "lower_bound": 27.48,
+          "upper_bound": 30.53
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 28.85,
+          "lower_bound": 27.21,
+          "upper_bound": 30.42
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 29.2,
+          "lower_bound": 27.67,
+          "upper_bound": 30.72
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 28.31,
+          "lower_bound": 26.75,
+          "upper_bound": 29.91
+        }
+      ]
+    },
+    {
+      "crop": "Onions",
+      "market": "Lasalgaon",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 21.92,
+          "lower_bound": 20.75,
+          "upper_bound": 23.03
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 22.02,
+          "lower_bound": 20.78,
+          "upper_bound": 23.24
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 20.43,
+          "lower_bound": 19.28,
+          "upper_bound": 21.66
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 19.87,
+          "lower_bound": 18.54,
+          "upper_bound": 21.16
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 19.43,
+          "lower_bound": 18.05,
+          "upper_bound": 20.79
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 18.82,
+          "lower_bound": 17.3,
+          "upper_bound": 20.43
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 17.32,
+          "lower_bound": 15.76,
+          "upper_bound": 18.88
+        }
+      ]
+    },
+    {
+      "crop": "Onions",
+      "market": "Nashik",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 43.93,
+          "lower_bound": 42.47,
+          "upper_bound": 45.45
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 42.46,
+          "lower_bound": 41.07,
+          "upper_bound": 43.8
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 42.51,
+          "lower_bound": 41.07,
+          "upper_bound": 44.01
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 41.91,
+          "lower_bound": 40.47,
+          "upper_bound": 43.36
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 41.78,
+          "lower_bound": 40.38,
+          "upper_bound": 43.32
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 41.84,
+          "lower_bound": 40.43,
+          "upper_bound": 43.29
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 42.33,
+          "lower_bound": 40.86,
+          "upper_bound": 43.88
+        }
+      ]
+    },
+    {
+      "crop": "Onions",
+      "market": "Mumbai Market",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 38.44,
+          "lower_bound": 37.1,
+          "upper_bound": 39.8
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 38.09,
+          "lower_bound": 36.74,
+          "upper_bound": 39.42
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 37.2,
+          "lower_bound": 35.84,
+          "upper_bound": 38.55
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 37.3,
+          "lower_bound": 35.8,
+          "upper_bound": 38.68
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 36.66,
+          "lower_bound": 35.08,
+          "upper_bound": 38.19
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 36.82,
+          "lower_bound": 35.16,
+          "upper_bound": 38.38
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 36.62,
+          "lower_bound": 34.68,
+          "upper_bound": 38.48
+        }
+      ]
+    },
+    {
+      "crop": "Onions",
+      "market": "Nagpur",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 33.67,
+          "lower_bound": 31.36,
+          "upper_bound": 36.0
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 33.02,
+          "lower_bound": 30.72,
+          "upper_bound": 35.44
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 34.09,
+          "lower_bound": 31.79,
+          "upper_bound": 36.45
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 34.05,
+          "lower_bound": 31.88,
+          "upper_bound": 36.5
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 34.18,
+          "lower_bound": 31.74,
+          "upper_bound": 36.54
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 33.93,
+          "lower_bound": 31.5,
+          "upper_bound": 36.34
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 34.65,
+          "lower_bound": 32.13,
+          "upper_bound": 37.09
+        }
+      ]
+    },
+    {
+      "crop": "Onions",
+      "market": "Kolhapur",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 13.65,
+          "lower_bound": 11.99,
+          "upper_bound": 15.51
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 13.26,
+          "lower_bound": 11.53,
+          "upper_bound": 15.07
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 11.82,
+          "lower_bound": 10.07,
+          "upper_bound": 13.5
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 11.99,
+          "lower_bound": 10.32,
+          "upper_bound": 13.7
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 12.43,
+          "lower_bound": 10.62,
+          "upper_bound": 14.2
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 12.65,
+          "lower_bound": 10.86,
+          "upper_bound": 14.35
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 12.23,
+          "lower_bound": 10.43,
+          "upper_bound": 13.97
+        }
+      ]
+    },
+    {
+      "crop": "Onions",
+      "market": "Pimpri-Chinchwad",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 12.09,
+          "lower_bound": 8.79,
+          "upper_bound": 15.75
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 12.98,
+          "lower_bound": 9.24,
+          "upper_bound": 16.32
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 12.05,
+          "lower_bound": 8.85,
+          "upper_bound": 15.58
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 12.59,
+          "lower_bound": 9.21,
+          "upper_bound": 15.83
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 12.52,
+          "lower_bound": 8.73,
+          "upper_bound": 16.17
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 12.84,
+          "lower_bound": 9.33,
+          "upper_bound": 16.36
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 12.65,
+          "lower_bound": 9.17,
+          "upper_bound": 16.34
+        }
+      ]
+    },
+    {
+      "crop": "Onions",
+      "market": "Sambhajinagar",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 54.21,
+          "lower_bound": 52.29,
+          "upper_bound": 56.15
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 55.03,
+          "lower_bound": 52.95,
+          "upper_bound": 56.93
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 53.64,
+          "lower_bound": 51.69,
+          "upper_bound": 55.6
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 54.22,
+          "lower_bound": 52.24,
+          "upper_bound": 56.24
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 53.91,
+          "lower_bound": 51.86,
+          "upper_bound": 55.83
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 52.63,
+          "lower_bound": 50.55,
+          "upper_bound": 54.71
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 51.98,
+          "lower_bound": 49.7,
+          "upper_bound": 54.23
+        }
+      ]
+    },
+    {
+      "crop": "Onions",
+      "market": "Solapur",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 33.57,
+          "lower_bound": 30.98,
+          "upper_bound": 36.62
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 31.87,
+          "lower_bound": 29.2,
+          "upper_bound": 34.62
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 29.76,
+          "lower_bound": 26.75,
+          "upper_bound": 32.65
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 29.61,
+          "lower_bound": 26.98,
+          "upper_bound": 32.34
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 29.56,
+          "lower_bound": 26.76,
+          "upper_bound": 32.33
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 29.15,
+          "lower_bound": 26.37,
+          "upper_bound": 31.86
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 28.65,
+          "lower_bound": 25.77,
+          "upper_bound": 31.47
+        }
+      ]
+    },
+    {
+      "crop": "Cabbage",
+      "market": "Pune APMC",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 36.72,
+          "lower_bound": 35.66,
+          "upper_bound": 37.76
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 36.93,
+          "lower_bound": 35.91,
+          "upper_bound": 37.98
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 37.35,
+          "lower_bound": 36.3,
+          "upper_bound": 38.39
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 36.6,
+          "lower_bound": 35.55,
+          "upper_bound": 37.67
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 36.69,
+          "lower_bound": 35.66,
+          "upper_bound": 37.79
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 36.45,
+          "lower_bound": 35.39,
+          "upper_bound": 37.44
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 36.24,
+          "lower_bound": 35.24,
+          "upper_bound": 37.29
+        }
+      ]
+    },
+    {
+      "crop": "Cabbage",
+      "market": "Lasalgaon",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 11.44,
+          "lower_bound": 8.48,
+          "upper_bound": 14.3
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 10.51,
+          "lower_bound": 7.24,
+          "upper_bound": 13.7
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 10.93,
+          "lower_bound": 8.07,
+          "upper_bound": 14.19
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 11.29,
+          "lower_bound": 8.11,
+          "upper_bound": 14.4
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 10.86,
+          "lower_bound": 7.98,
+          "upper_bound": 13.99
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 10.87,
+          "lower_bound": 7.66,
+          "upper_bound": 13.83
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 11.98,
+          "lower_bound": 8.85,
+          "upper_bound": 15.01
+        }
+      ]
+    },
+    {
+      "crop": "Cabbage",
+      "market": "Nashik",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 13.52,
+          "lower_bound": 10.87,
+          "upper_bound": 16.33
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 13.43,
+          "lower_bound": 10.79,
+          "upper_bound": 15.96
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 15.01,
+          "lower_bound": 12.3,
+          "upper_bound": 17.91
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 15.03,
+          "lower_bound": 12.44,
+          "upper_bound": 17.79
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 13.32,
+          "lower_bound": 10.6,
+          "upper_bound": 16.05
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 13.43,
+          "lower_bound": 10.55,
+          "upper_bound": 16.15
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 12.87,
+          "lower_bound": 10.24,
+          "upper_bound": 15.7
+        }
+      ]
+    },
+    {
+      "crop": "Cabbage",
+      "market": "Mumbai Market",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 43.82,
+          "lower_bound": 42.73,
+          "upper_bound": 44.96
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 44.17,
+          "lower_bound": 43.06,
+          "upper_bound": 45.3
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 45.4,
+          "lower_bound": 44.12,
+          "upper_bound": 46.54
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 47.74,
+          "lower_bound": 46.52,
+          "upper_bound": 48.96
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 48.14,
+          "lower_bound": 46.95,
+          "upper_bound": 49.42
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 50.36,
+          "lower_bound": 48.98,
+          "upper_bound": 51.69
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 50.98,
+          "lower_bound": 49.52,
+          "upper_bound": 52.35
+        }
+      ]
+    },
+    {
+      "crop": "Cabbage",
+      "market": "Nagpur",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 22.58,
+          "lower_bound": 20.99,
+          "upper_bound": 24.4
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 23.92,
+          "lower_bound": 22.26,
+          "upper_bound": 25.57
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 23.01,
+          "lower_bound": 21.22,
+          "upper_bound": 24.67
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 22.99,
+          "lower_bound": 21.28,
+          "upper_bound": 24.68
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 24.53,
+          "lower_bound": 22.74,
+          "upper_bound": 26.21
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 24.86,
+          "lower_bound": 23.15,
+          "upper_bound": 26.6
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 24.29,
+          "lower_bound": 22.59,
+          "upper_bound": 26.08
+        }
+      ]
+    },
+    {
+      "crop": "Cabbage",
+      "market": "Kolhapur",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 35.06,
+          "lower_bound": 34.13,
+          "upper_bound": 36.05
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 33.37,
+          "lower_bound": 32.43,
+          "upper_bound": 34.37
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 32.74,
+          "lower_bound": 31.69,
+          "upper_bound": 33.82
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 31.98,
+          "lower_bound": 30.8,
+          "upper_bound": 33.04
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 33.21,
+          "lower_bound": 31.92,
+          "upper_bound": 34.4
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 32.89,
+          "lower_bound": 31.36,
+          "upper_bound": 34.38
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 30.93,
+          "lower_bound": 29.01,
+          "upper_bound": 32.71
+        }
+      ]
+    },
+    {
+      "crop": "Cabbage",
+      "market": "Pimpri-Chinchwad",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 28.22,
+          "lower_bound": 26.55,
+          "upper_bound": 29.81
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 27.64,
+          "lower_bound": 25.92,
+          "upper_bound": 29.21
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 29.66,
+          "lower_bound": 27.98,
+          "upper_bound": 31.36
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 30.53,
+          "lower_bound": 28.91,
+          "upper_bound": 32.15
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 29.67,
+          "lower_bound": 27.97,
+          "upper_bound": 31.31
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 29.89,
+          "lower_bound": 28.28,
+          "upper_bound": 31.44
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 29.56,
+          "lower_bound": 27.78,
+          "upper_bound": 31.26
+        }
+      ]
+    },
+    {
+      "crop": "Cabbage",
+      "market": "Sambhajinagar",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 35.58,
+          "lower_bound": 34.27,
+          "upper_bound": 37.0
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 37.39,
+          "lower_bound": 35.94,
+          "upper_bound": 38.75
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 38.22,
+          "lower_bound": 36.8,
+          "upper_bound": 39.49
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 39.4,
+          "lower_bound": 38.01,
+          "upper_bound": 40.8
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 40.26,
+          "lower_bound": 38.69,
+          "upper_bound": 41.76
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 41.32,
+          "lower_bound": 39.79,
+          "upper_bound": 42.82
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 40.75,
+          "lower_bound": 39.03,
+          "upper_bound": 42.37
+        }
+      ]
+    },
+    {
+      "crop": "Cabbage",
+      "market": "Solapur",
+      "forecast": [
+        {
+          "date": "2025-06-27",
+          "predicted_price": 39.22,
+          "lower_bound": 37.53,
+          "upper_bound": 41.12
+        },
+        {
+          "date": "2025-06-28",
+          "predicted_price": 37.77,
+          "lower_bound": 36.03,
+          "upper_bound": 39.56
+        },
+        {
+          "date": "2025-06-29",
+          "predicted_price": 39.79,
+          "lower_bound": 37.93,
+          "upper_bound": 41.53
+        },
+        {
+          "date": "2025-06-30",
+          "predicted_price": 38.33,
+          "lower_bound": 36.61,
+          "upper_bound": 40.2
+        },
+        {
+          "date": "2025-07-01",
+          "predicted_price": 37.13,
+          "lower_bound": 35.47,
+          "upper_bound": 38.84
+        },
+        {
+          "date": "2025-07-02",
+          "predicted_price": 37.54,
+          "lower_bound": 35.69,
+          "upper_bound": 39.25
+        },
+        {
+          "date": "2025-07-03",
+          "predicted_price": 38.48,
+          "lower_bound": 36.75,
+          "upper_bound": 40.22
+        }
+      ]
+    }
+  ]
+}
